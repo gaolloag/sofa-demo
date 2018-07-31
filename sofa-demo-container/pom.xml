@@ -37,13 +37,13 @@
             <groupId>com.alipay.sofa</groupId>
             <artifactId>sofa-ark-springboot-starter</artifactId>
         </dependency>
-
         <dependency>
             <groupId>com.gl.sofa.account.plugin</groupId>
             <artifactId>account-plugin</artifactId>
             <version>1.0-SNAPSHOT</version>
-           <!-- <classifier>ark-plugin</classifier>-->
+            <!-- <classifier>ark-plugin</classifier>-->
         </dependency>
+
 
         <dependency>
             <groupId>com.alipay.sofa</groupId>
